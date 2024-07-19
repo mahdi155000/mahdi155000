@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahdi155000
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python, linux, C
+- 👀 I’m interested in python, linux, C
+- 🌱 I’m currently learning python, linux, rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
